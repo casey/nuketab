@@ -1,0 +1,16 @@
+{
+  "name": "New Tab",
+  "description": "A new tab",
+  "author": "Casey Rodarmor",
+  "version": "0.0.0",
+  "manifest_version": 2,
+  "incognito": "split",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "icons": {
+    "16": "16.png",
+    "48": "48.png",
+    "128": "128.png"
+  }
+}

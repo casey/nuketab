@@ -1,6 +1,6 @@
 {
-  "name": "New Tab",
-  "description": "A new tab",
+  "name": "Nuke Tab",
+  "description": "Empty new tabs.",
   "author": "Casey Rodarmor",
   "version": "0.0.0.1",
   "manifest_version": 2,

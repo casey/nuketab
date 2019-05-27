@@ -1,0 +1,3 @@
+# nuketab
+
+Empty new tabs.

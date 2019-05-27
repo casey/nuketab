@@ -1,5 +1,6 @@
 {
   "name": "Nuke Tab",
+  "short_name": "Nuke Tab",
   "description": "Empty new tabs.",
   "author": "Casey Rodarmor",
   "version": "0.0.0.1",

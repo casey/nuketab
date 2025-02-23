@@ -3,8 +3,8 @@
   "short_name": "Nuke Tab",
   "description": "Empty new tabs.",
   "author": "Casey Rodarmor",
-  "version": "0.0.0.3",
-  "manifest_version": 2,
+  "version": "0.0.0.4",
+  "manifest_version": 3,
   "incognito": "split",
   "chrome_url_overrides": {
     "newtab": "index.html"
